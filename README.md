@@ -8,3 +8,5 @@ My first repository
 [Casey Winders Linkedin] (https://www.linkedin.com/feed/)
 ### Example of an image
 ![Iowa Hawkeyes](https://wallpapersafari.com/iowa-hawkeye-wallpaper-screensavers/)
+### Example of italicized text
+*This is an example of italicized text*
